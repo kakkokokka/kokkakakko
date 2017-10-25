@@ -46,3 +46,4 @@ hyper parameter, 無情報事前分布, 仮想データとしての解釈, な�
 Bayesian spam filter  
 Bayesian network  
 nonparametric Bayes
+
